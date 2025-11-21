@@ -1,6 +1,6 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=Ibrahim-Bun&show_icons=true)
 
-# Coding Projects
+# Coding
 This project compiles all my notable python projects, following set assignments and personal project.
 
 - [Table Of Contents](#table-of-contents)
