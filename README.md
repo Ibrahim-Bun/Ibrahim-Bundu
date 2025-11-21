@@ -3,12 +3,7 @@
 # Coding Projects
 This project compiles all my notable python projects, following set assignments and personal project.
 
-## Table of Contents  
-[Programming Languages](#headers)  
-[Emphasis](#emphasis)  
-...snip...    
-<a name="headers"/>
-## Programming Languages
+- [Table Of Contents](#table-of-contents)
 
-
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
